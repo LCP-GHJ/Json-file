@@ -1,0 +1,4 @@
+﻿  Program.cpp
+C:\Users\Administrator\Desktop\VQA\Other\Program\Program\Program.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\VQA\Other\Program\Program\Program.cpp(51): warning C4018: “<”: 有符号/无符号不匹配
+  Program.vcxproj -> C:\Users\Administrator\Desktop\VQA\Other\Program\Debug\Program.exe
